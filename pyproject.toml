@@ -1,0 +1,10 @@
+[project]
+name = "data-science-beginner"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyterlab>=4.6.3",
+    "pandas>=3.0.5",
+]
